@@ -3,10 +3,10 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-〽️ YT : GZ BOTZ  JANGAN LUPA SUBSCRIBE 〽️
-〽️ NOMOR : 083856223089 JAN LUPA SAVE 〽️
-〽️ IG : ( KASIH IG LU ) JAN LUPA FOLLOW 〽️
-〽️ TIK TOK : ( KASIH TT LU ) JAN LUPA FOLLOW 〽️
+️ YT : SiFzz JANGAN LUPA SUBSCRIBE ️
+️ NOMOR : 083856223089 HEMAT JAN LUPA️S
+〽️ IG : ( xgame.sanz ) JAN LUPA FOLLOW 〽️
+〽️ TIK TOK : ( sif_78 ) JAN LUPA FOLLOW 〽️
 
 
 
